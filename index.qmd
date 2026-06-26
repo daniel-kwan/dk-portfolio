@@ -1,11 +1,11 @@
 ---
-title: "Welcome"
+title: "Home"
 ---
 
 ::: {.hero}
-## Your Name or Project
+## Portfolio site
 
-Write a short introduction that tells visitors who you are, what this site is about, or what they can find here.
+I support thriving communities with contextual data. 
 
 [Learn more](about.qmd){.btn .btn-primary}
 [View projects](projects.qmd){.btn .btn-outline-primary}
@@ -13,15 +13,13 @@ Write a short introduction that tells visitors who you are, what this site is ab
 
 ## What I do
 
-Replace this section with two or three sentences about your work, interests, research, community, or project.
+Data person providing strategic and operational support through analysis, insights, and visualization.
 
 ## Featured work
-
-Use this area to highlight something you want visitors to notice first.
 
 - [Project or resource title](projects.qmd)
 - [Another useful link](https://quarto.org/docs/websites/)
 
-## Contact or next steps
+## Contact
 
-Add a preferred way for visitors to contact you, find your work, or learn more. Avoid publishing personal information you do not want to share publicly.
+Please don't contact me. 
