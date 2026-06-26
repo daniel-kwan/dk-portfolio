@@ -58,36 +58,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Home",
     "section": "",
-    "text": "Write a short introduction that tells visitors who you are, what this site is about, or what they can find here.\nLearn more View projects"
+    "text": "I support thriving communities with contextual data.\nLearn more View projects"
   },
   {
-    "objectID": "index.html#your-name-or-project",
-    "href": "index.html#your-name-or-project",
-    "title": "Welcome",
+    "objectID": "index.html#portfolio-site",
+    "href": "index.html#portfolio-site",
+    "title": "Home",
     "section": "",
-    "text": "Write a short introduction that tells visitors who you are, what this site is about, or what they can find here.\nLearn more View projects"
+    "text": "I support thriving communities with contextual data.\nLearn more View projects"
   },
   {
     "objectID": "index.html#what-i-do",
     "href": "index.html#what-i-do",
-    "title": "Welcome",
+    "title": "Home",
     "section": "What I do",
-    "text": "What I do\nReplace this section with two or three sentences about your work, interests, research, community, or project."
+    "text": "What I do\nData person providing strategic and operational support through analysis, insights, and visualization."
   },
   {
     "objectID": "index.html#featured-work",
     "href": "index.html#featured-work",
-    "title": "Welcome",
+    "title": "Home",
     "section": "Featured work",
-    "text": "Featured work\nUse this area to highlight something you want visitors to notice first.\n\nProject or resource title\nAnother useful link"
+    "text": "Featured work\n\nProject or resource title\nAnother useful link"
   },
   {
-    "objectID": "index.html#contact-or-next-steps",
-    "href": "index.html#contact-or-next-steps",
-    "title": "Welcome",
-    "section": "Contact or next steps",
-    "text": "Contact or next steps\nAdd a preferred way for visitors to contact you, find your work, or learn more. Avoid publishing personal information you do not want to share publicly."
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "Contact",
+    "text": "Contact\nPlease don’t contact me."
   }
 ]
